@@ -1,16 +1,7 @@
-# flutter_music_onboard
+# Flutter-Music-Onboarding-UI
 
-A new Flutter project.
+# Watch on YouTube [https://bit.ly/3DUleHQ]
 
-## Getting Started
+# Facebook Page [https://bit.ly/2WGEVSi]
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![5942094-ai](https://user-images.githubusercontent.com/72684684/132405856-331018ed-b3ec-4244-9200-fee85d35d0ce.png)
